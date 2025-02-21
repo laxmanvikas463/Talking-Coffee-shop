@@ -4,6 +4,8 @@
 
 The **Coffee Shop Chatbot** is an AI-powered chatbot designed to assist customers by answering queries about menu items, payment options, and other coffee shop-related information. The chatbot is built using **PyTorch** for the backend AI model and **Flask** for API communication, while the frontend is developed in **HTML, CSS, and JavaScript**.
 
+![Chatbot UI](https://github.com/laxmanvikas463/Talking-Coffee-shop/blob/main/images/chatbot-UI.png) ![Chatbot Features](https://github.com/laxmanvikas463/Talking-Coffee-shop/blob/main/images/chatbot-features.png)
+
 ## Features
 
 - **Conversational AI**: Uses a trained neural network to process and respond to customer queries.
@@ -99,4 +101,4 @@ This project is open-source and available under the **MIT License**.
 
 ## Contact
 
-For queries and contributions, reach out via [your email or GitHub profile link].
+For queries and contributions, reach out via [laxmanvikaskommireddi@gmail.com].
